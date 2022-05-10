@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7674f4bbc67506d439ccb36bbbe66d48, type: 3}
+  m_Name: 448
+  m_EditorClassIdentifier: 
+  id: 448
+  pokemonName: Lucario
+  icon: {fileID: 21300000, guid: 1cbe04a3025f17f48ab4c592cb4c8c26, type: 3}
+  frontSprite: {fileID: 21300000, guid: 92e38e4e8bcd0cf449e90c35ef49912c, type: 3}
+  backSprite: {fileID: 21300000, guid: 59b788907a64df84ba134249d88adaac, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 70
+  attack: 110
+  defense: 70
+  speed: 90
+  rate: 15
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: 6ab1583d5b91abb4f9f433283abfe8b3, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: a328136b208a02541a3850f9475f0505, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: aac56818c7110614193428056a4cecf2, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 5c0d702c108b2594282ce411b78f6c2b, type: 2}
+    levelLearn: 0

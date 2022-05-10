@@ -1,0 +1,34 @@
+{
+    "name": "MainMenuInput",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "272ca298-7820-4625-93bd-0940303064ae",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Button",
+                    "id": "775ae7cd-35d0-4296-a51b-3a3e20bac696",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6388abd6-a468-46ed-830e-648d95a4e5c1",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

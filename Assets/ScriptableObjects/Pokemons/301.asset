@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7674f4bbc67506d439ccb36bbbe66d48, type: 3}
+  m_Name: 301
+  m_EditorClassIdentifier: 
+  id: 301
+  pokemonName: Delcatty
+  icon: {fileID: 21300000, guid: 213337671fe71b947a13433bfdab0638, type: 3}
+  frontSprite: {fileID: 21300000, guid: 82677154b7df595499ca301c53e98a3e, type: 3}
+  backSprite: {fileID: 21300000, guid: fddef3df148640b499de05666f299a31, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 70
+  attack: 65
+  defense: 65
+  speed: 90
+  rate: 45
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: 35ff8bc51b92d0147b028fdbfd61a7a1, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 286c8a3ed8185c14baf60f3a29f3a970, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 40b65aa201cadec4991f0ae4a393b2fa, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 7e69e6e4855bfaa4f97501b0e12a11ad, type: 2}
+    levelLearn: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7674f4bbc67506d439ccb36bbbe66d48, type: 3}
+  m_Name: 395
+  m_EditorClassIdentifier: 
+  id: 395
+  pokemonName: Empoleon
+  icon: {fileID: 21300000, guid: 786d707397fb18d4aac854e0bf5f7361, type: 3}
+  frontSprite: {fileID: 21300000, guid: 221b6e3d3cc65304fa973c7658f32883, type: 3}
+  backSprite: {fileID: 21300000, guid: 2cae4ada1a2cf2943a33f639565d3dbc, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 84
+  attack: 86
+  defense: 88
+  speed: 60
+  rate: 45
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: 5c0d702c108b2594282ce411b78f6c2b, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 40b65aa201cadec4991f0ae4a393b2fa, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 7e69e6e4855bfaa4f97501b0e12a11ad, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 25726186866035347b06039670ca0bff, type: 2}
+    levelLearn: 0

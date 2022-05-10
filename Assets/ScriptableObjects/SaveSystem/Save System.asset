@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bcba9a045544570a90333b9a74abed7, type: 3}
+  m_Name: Save System
+  m_EditorClassIdentifier: 
+  basePokemonStorage: {fileID: 11400000, guid: f672edffc86ae3a419bad3bfea526f8a, type: 2}
+  baseMoveStorage: {fileID: 11400000, guid: 3c2336e7d5f78b9478c22652b7af7aa4, type: 2}
+  pokemonPartySo: {fileID: 11400000, guid: 9648ac7fb84b9854b8552f855cca04dd, type: 2}
+  pokemonPcSo: {fileID: 11400000, guid: 224b9f1919a2e0949802555ee1dad774, type: 2}
+  playerPositionSo: {fileID: 11400000, guid: b159ba86d48c8314b94122b54e33c85b, type: 2}

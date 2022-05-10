@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b4bee80b634c6fb2572aad424f54d7, type: 3}
+  m_Name: PokemonPartySO
+  m_EditorClassIdentifier: 
+  pokemonPcSo: {fileID: 11400000, guid: 224b9f1919a2e0949802555ee1dad774, type: 2}
+  listPokemon:
+  - basePokemon: {fileID: 11400000, guid: 6c631baeb6f024b45ab88ed28043f1fd, type: 2}
+    level: 95
+  - basePokemon: {fileID: 11400000, guid: 6c631baeb6f024b45ab88ed28043f1fd, type: 2}
+    level: 96
+  - basePokemon: {fileID: 11400000, guid: 48b039bcb7b26134192aaa8ceb329420, type: 2}
+    level: 98
+  - basePokemon: {fileID: 11400000, guid: 40788ac610e8bf347b289f61d2d81c5c, type: 2}
+    level: 91
+  - basePokemon: {fileID: 11400000, guid: 48b039bcb7b26134192aaa8ceb329420, type: 2}
+    level: 99
+  - basePokemon: {fileID: 11400000, guid: 40788ac610e8bf347b289f61d2d81c5c, type: 2}
+    level: 90
+  - basePokemon: {fileID: 11400000, guid: 6c631baeb6f024b45ab88ed28043f1fd, type: 2}
+    level: 90

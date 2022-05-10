@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7674f4bbc67506d439ccb36bbbe66d48, type: 3}
+  m_Name: 197
+  m_EditorClassIdentifier: 
+  id: 197
+  pokemonName: Umbreon
+  icon: {fileID: 21300002, guid: ad1a6b50af5482847a7db2614fae5ebb, type: 3}
+  frontSprite: {fileID: 21300000, guid: 8c30b2cddc130db469a574c3b7beb1a1, type: 3}
+  backSprite: {fileID: 21300000, guid: 5945bd092fbab3e448b71b306abf32d6, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 95
+  attack: 110
+  defense: 65
+  speed: 65
+  rate: 12
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: aac56818c7110614193428056a4cecf2, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: a328136b208a02541a3850f9475f0505, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 40b65aa201cadec4991f0ae4a393b2fa, type: 2}
+    levelLearn: 0
+  - baseMove: {fileID: 11400000, guid: 25726186866035347b06039670ca0bff, type: 2}
+    levelLearn: 0

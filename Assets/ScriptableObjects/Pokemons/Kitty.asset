@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7674f4bbc67506d439ccb36bbbe66d48, type: 3}
+  m_Name: Kitty
+  m_EditorClassIdentifier: 
+  id: 300
+  pokemonName: Kitty
+  icon: {fileID: 21300000, guid: d6abf948f4bdb6840a13401649f43cfd, type: 3}
+  frontSprite: {fileID: 21300000, guid: faf0147d7c4792b49b70968cd4f3a25d, type: 3}
+  backSprite: {fileID: 21300000, guid: a36f939902fcd684cb67ad6afbae7965, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 50
+  attack: 45
+  defense: 45
+  speed: 50
+  rate: 45
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: 77a09cf302c1a974692927d0991fa6fa, type: 2}
+    levelLearn: 1
+  - baseMove: {fileID: 11400000, guid: aac56818c7110614193428056a4cecf2, type: 2}
+    levelLearn: 2
+  - baseMove: {fileID: 11400000, guid: 25726186866035347b06039670ca0bff, type: 2}
+    levelLearn: 3
+  - baseMove: {fileID: 11400000, guid: 7e69e6e4855bfaa4f97501b0e12a11ad, type: 2}
+    levelLearn: 4

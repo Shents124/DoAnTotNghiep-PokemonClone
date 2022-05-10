@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fab9103-d80f-40a5-bac4-b3226c9a01ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Moves/LearnableMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/BoolEventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/ActionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/SerializedMoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB7F68C0-84E8-42D9-8504-C53B2B4DD3DB/8d/e3a189fe/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventListeners/EncounterWildPokemonEventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUnit/EncounterPokemonBattleUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/BasePokemonStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagement/SceneNameConstraints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/TrainerUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB7F68C0-84E8-42D9-8504-C53B2B4DD3DB/e1/17992024/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/PlayerHubUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/SerializedPokemonMoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/Begin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextUIAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Map/GrassMapArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/20/e19e9d15/File.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/FileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/EncounterWildPokemonEventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/EnemyTurn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUnit/BaseBattleUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C5A6552-EE3E-423A-A509-A1D67235DF50/88/affe560f/Physics2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/Vector2EventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPCSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/SerializedPokemonData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPartyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/SelectionAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/Save.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/StringEventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Moves/PokemonMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/PokemonSlotItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pokemons/BasePokemon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/VoidEventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/PlayerPositionSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB7F68C0-84E8-42D9-8504-C53B2B4DD3DB/39/b4f05248/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/BtnSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PokemonFainted.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/Dialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/SaveGameSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/eb/24b5b090/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB7F68C0-84E8-42D9-8504-C53B2B4DD3DB/01/5b610f0f/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Moves/BaseMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/HubUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagement/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E27D79FA-71FD-4D44-A57F-A16AC139C528/41/40e66293/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/MoveHandle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/Won.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents/PokemonEventSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/12/c8ac834d/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/MoveButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PlayerSwitchPokemon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUnit/PlayerBattleUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PlayerTurn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/PartyUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/CatchWildPokemon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/PokemonFaintedUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pokemons/Pokemon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPartySO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem/BaseMoveStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/EncounterPokemonBattleSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagement/InitializationLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/Lost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventListeners/BoolEventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/SerializedMoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventListeners/BoolEventListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/SerializedPokemonData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonParty.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TextUIAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEvents/EncounterWildPokemonEventSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventListeners/EncounterWildPokemonEventListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerDataContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PokemonFainted.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Moves/PokemonMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pokemons/Pokemon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/PlayerPositionSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/Save.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManagement/InitializationLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEvents/PokemonEventSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPartySO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPCSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/SaveGameSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pokemons/PokemonPartyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnetic Scroll View/Scripts/Editor/IndexTableManagerEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnetic Scroll View/Scripts/IndexTableManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/LandState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/SitState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/JumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FiniteStateMachine/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/IObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/ISubject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/ConcreteSubject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/ConcreteObserverA.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/ConcreteObserverB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer Design Pattern/TestObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/BtnSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManagement/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/EnemyTurn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PlayerTurn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Map/GrassMapArea.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/CatchWildPokemon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/BattleUI/TrainerUIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/EncounterPokemonBattleSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleSystems/States/PlayerSwitchPokemon.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="27dKtFvR39NOt20upib5Vfkpv4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fab9103-d80f-40a5-bac4-b3226c9a01ac" name="Default Changelist" comment="" />
+      <created>1649644737444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649644737444</updated>
+      <workItem from="1649644792599" duration="1670000" />
+      <workItem from="1649661828729" duration="4415000" />
+      <workItem from="1649671738098" duration="19000" />
+      <workItem from="1649747533959" duration="1624000" />
+      <workItem from="1649816360401" duration="15972000" />
+      <workItem from="1649854424102" duration="8034000" />
+      <workItem from="1649941221981" duration="7221000" />
+      <workItem from="1650071317233" duration="16932000" />
+      <workItem from="1650096841912" duration="7457000" />
+      <workItem from="1650160673733" duration="726000" />
+      <workItem from="1650163357638" duration="2885000" />
+      <workItem from="1650180096758" duration="6317000" />
+      <workItem from="1650202295119" duration="7987000" />
+      <workItem from="1650295928507" duration="4439000" />
+      <workItem from="1650373955214" duration="8087000" />
+      <workItem from="1650461795919" duration="9874000" />
+      <workItem from="1650546693565" duration="6074000" />
+      <workItem from="1651065863723" duration="9713000" />
+      <workItem from="1651283597146" duration="4447000" />
+      <workItem from="1651289088098" duration="5042000" />
+      <workItem from="1651411660885" duration="5536000" />
+      <workItem from="1651541204254" duration="1313000" />
+      <workItem from="1651568801427" duration="3051000" />
+      <workItem from="1651672997676" duration="1354000" />
+      <workItem from="1651675793800" duration="911000" />
+      <workItem from="1651759680025" duration="3457000" />
+      <workItem from="1651890536973" duration="3949000" />
+      <workItem from="1651928768392" duration="2622000" />
+      <workItem from="1651987599905" duration="12221000" />
+      <workItem from="1652191798834" duration="5361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649945047954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1649945047954" />
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1651572494000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651572494000" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.1.bottom" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.1.center" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.1.left" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.1.right" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.2.bottom" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.2.center" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.2.left" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.2.right" timestamp="1651572494001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1651572494001" />
+    <state width="1493" height="242" key="GridCell.Tab.3.bottom" timestamp="1651572494002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651572494002" />
+    <state width="1493" height="242" key="GridCell.Tab.3.center" timestamp="1651572494002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1651572494002" />
+    <state width="1493" height="242" key="GridCell.Tab.3.left" timestamp="1651572494002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1651572494002" />
+    <state width="1493" height="242" key="GridCell.Tab.3.right" timestamp="1651572494002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1651572494002" />
+    <state x="479" y="90" key="RiderGenerateDialog" timestamp="1651913924091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="90" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1651913924091" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1651760114678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651760114678" />
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1649823874677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1649823874677" />
+    <state x="839" y="0" width="636" height="824" key="find.popup" timestamp="1649645074431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="839" y="0" width="636" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1649645074431" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652195702175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1652195702175" />
+  </component>
+</project>

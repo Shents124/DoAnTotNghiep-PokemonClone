@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kieut\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kieut\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_DoAnTotNghiep-PokemonClone.-1729329689.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kieut\Desktop\DoAnTotNghiep-PokemonClone" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="SimpleInput" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Audio" t="Include">
+            <e p="BtnSound.cs" t="Include" />
+            <e p="SoundManager.cs" t="Include" />
+          </e>
+          <e p="BattleSystems" t="Include">
+            <e p="BattleUI" t="Include">
+              <e p="ActionController.cs" t="Include" />
+              <e p="Dialog.cs" t="Include" />
+              <e p="HealthBar.cs" t="Include" />
+              <e p="HubUI.cs" t="Include" />
+              <e p="MoveButton.cs" t="Include" />
+              <e p="PartyUI.cs" t="Include" />
+              <e p="PlayerHubUI.cs" t="Include" />
+              <e p="PokemonFaintedUI.cs" t="Include" />
+              <e p="PokemonSlotItem.cs" t="Include" />
+              <e p="TrainerUIController.cs" t="Include" />
+            </e>
+            <e p="BattleUnit" t="Include">
+              <e p="BaseBattleUnit.cs" t="Include" />
+              <e p="EncounterPokemonBattleUnit.cs" t="Include" />
+              <e p="PlayerBattleUnit.cs" t="Include" />
+            </e>
+            <e p="EncounterPokemonBattleSystem.cs" t="Include" />
+            <e p="MoveHandle.cs" t="Include" />
+            <e p="State.cs" t="Include" />
+            <e p="StateMachine.cs" t="Include" />
+            <e p="States" t="Include">
+              <e p="Begin.cs" t="Include" />
+              <e p="CatchWildPokemon.cs" t="Include" />
+              <e p="EnemyTurn.cs" t="Include" />
+              <e p="Lost.cs" t="Include" />
+              <e p="PlayerSwitchPokemon.cs" t="Include" />
+              <e p="PlayerTurn.cs" t="Include" />
+              <e p="PokemonFainted.cs" t="Include" />
+              <e p="SelectionAction.cs" t="Include" />
+              <e p="Won.cs" t="Include" />
+            </e>
+          </e>
+          <e p="EventListeners" t="Include">
+            <e p="BoolEventListener.cs" t="Include" />
+            <e p="EncounterWildPokemonEventListener.cs" t="Include" />
+          </e>
+          <e p="GameEvents" t="Include">
+            <e p="BoolEventSO.cs" t="Include" />
+            <e p="EncounterWildPokemonEventSO.cs" t="Include" />
+            <e p="PokemonEventSO.cs" t="Include" />
+            <e p="StringEventSO.cs" t="Include" />
+            <e p="Vector2EventSO.cs" t="Include" />
+            <e p="VoidEventSO.cs" t="Include" />
+          </e>
+          <e p="MainMenuInput.cs" t="Include" />
+          <e p="Map" t="Include">
+            <e p="GrassMapArea.cs" t="Include" />
+          </e>
+          <e p="Moves" t="Include">
+            <e p="BaseMove.cs" t="Include" />
+            <e p="LearnableMove.cs" t="Include" />
+            <e p="PokemonMove.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerCollider.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="Pokemons" t="Include">
+            <e p="BasePokemon.cs" t="Include" />
+            <e p="Pokemon.cs" t="Include" />
+            <e p="PokemonPartyManager.cs" t="Include" />
+            <e p="PokemonPartySO.cs" t="Include" />
+            <e p="PokemonPCSO.cs" t="Include" />
+          </e>
+          <e p="SaveSystem" t="Include">
+            <e p="BaseMoveStorage.cs" t="Include" />
+            <e p="BasePokemonStorage.cs" t="Include" />
+            <e p="FileManager.cs" t="Include" />
+            <e p="PlayerPositionSO.cs" t="Include" />
+            <e p="Save.cs" t="Include" />
+            <e p="SaveGameSystem.cs" t="Include" />
+            <e p="SerializedMoveData.cs" t="Include" />
+            <e p="SerializedPokemonData.cs" t="Include" />
+            <e p="SerializedPokemonMoveData.cs" t="Include" />
+          </e>
+          <e p="SceneManagement" t="Include">
+            <e p="InitializationLoader.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="SceneNameConstraints.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="TextUIAnimation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DoAnTotNghiep-PokemonClone.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
